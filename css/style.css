@@ -1930,6 +1930,7 @@ input[type='number']::-webkit-outer-spin-button {
 
 input[type='date'] {
 	width: 100%;
+	height: 58px;
 	margin-bottom: 16px;
 	padding: 11px 17px;
 	border: 4px solid #f3f3f3;
