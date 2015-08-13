@@ -1649,6 +1649,7 @@ footer {
 
 .form-review__btn-select {
 	padding: 17px 0;
+	cursor: pointer;
 	text-align: center;
 }
 
