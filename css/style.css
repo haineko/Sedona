@@ -2421,7 +2421,6 @@ input[type='date']::-webkit-datetime-edit-text {
 }
 
 .main-menu__logo {
-	position: inherit;
 	background: url(../img/logo-sedona@1x.png) no-repeat 50% 0, url(../img/logo-triangle.svg) no-repeat 0 0/contain;
 }
 
